@@ -1,0 +1,24 @@
+2020-02-26 21:55:31 INFO  houseconstruction.IntrestTesting :18 - House construction with Standard material is calculated
+2020-02-26 21:55:31 DEBUG houseconstruction.IntrestTesting :19 - 24000
+2020-02-26 21:55:31 WARN  houseconstruction.IntrestTesting :20 - No warnings in calculating the standard material house construction cost
+2020-02-26 21:55:31 ERROR houseconstruction.IntrestTesting :21 - No errors in calculating the standard material house construction cost
+2020-02-26 21:55:31 INFO  houseconstruction.IntrestTesting :24 - House construction with Above Standard material is calculated
+2020-02-26 21:55:31 DEBUG houseconstruction.IntrestTesting :25 - 3000
+2020-02-26 21:55:31 WARN  houseconstruction.IntrestTesting :26 - No warnings in calculating the Above standard material house construction cost
+2020-02-26 21:55:31 ERROR houseconstruction.IntrestTesting :27 - No errors in calculating the Above standard material house construction cost
+2020-02-26 21:55:31 INFO  houseconstruction.IntrestTesting :29 - House construction with High standard material is calculated
+2020-02-26 21:55:31 DEBUG houseconstruction.IntrestTesting :30 - 540000
+2020-02-26 21:55:31 WARN  houseconstruction.IntrestTesting :31 - No warnings in calculating the High standard material house construction cost
+2020-02-26 21:55:31 ERROR houseconstruction.IntrestTesting :32 - No errors in calculating High standard material house construction cost
+2020-02-26 21:55:31 INFO  houseconstruction.IntrestTesting :35 - House construction with High standard Full automatic material is calculated
+2020-02-26 21:55:31 DEBUG houseconstruction.IntrestTesting :36 - 25000
+2020-02-26 21:55:31 WARN  houseconstruction.IntrestTesting :37 - No warnings in calculating the Excellent standard Full automatic material house construction cost
+2020-02-26 21:55:31 ERROR houseconstruction.IntrestTesting :38 - No errors in calculating Excellent standard Full automatic material house construction cost
+2020-02-26 21:55:31 INFO  houseconstruction.IntrestTesting :18 - Simple interest is calculated
+2020-02-26 21:55:31 DEBUG houseconstruction.IntrestTesting :19 - 3000
+2020-02-26 21:55:31 WARN  houseconstruction.IntrestTesting :20 - No warnings in Simple interest and calculated
+2020-02-26 21:55:31 ERROR houseconstruction.IntrestTesting :21 - No errors in Simple interest and calculated
+2020-02-26 21:55:31 INFO  houseconstruction.IntrestTesting :26 - Compound interest is calculated
+2020-02-26 21:55:31 DEBUG houseconstruction.IntrestTesting :27 - 1276
+2020-02-26 21:55:31 WARN  houseconstruction.IntrestTesting :28 - No warnings in Compound interest and calculated
+2020-02-26 21:55:31 ERROR houseconstruction.IntrestTesting :29 - No errors in Compound interest and calculated

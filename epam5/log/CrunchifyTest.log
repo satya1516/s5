@@ -1,0 +1,72 @@
+2020-03-02 11:43:16 [main] INFO  IntrestTest:17 - House construction with Standard material is calculated
+2020-03-02 11:43:16 [main] WARN  IntrestTest:19 - No warnings in calculating the standard matrial house construction cost
+2020-03-02 11:43:16 [main] ERROR IntrestTest:20 - No errors in calculating the standard matrial house construction cost
+2020-03-02 11:43:16 [main] INFO  IntrestTest:23 - House construction with Above Standard material is calculated
+2020-03-02 11:43:16 [main] WARN  IntrestTest:25 - No warnings in calculating the Above standard matrial house construction cost
+2020-03-02 11:43:16 [main] ERROR IntrestTest:26 - No errors in calculating the Above standard matrial house construction cost
+2020-03-02 11:43:16 [main] INFO  IntrestTest:29 - House construction with Highstandard material is calculated
+2020-03-02 11:43:16 [main] WARN  IntrestTest:31 - No warnings in calculating the Highstandard matrial house construction cost
+2020-03-02 11:43:16 [main] ERROR IntrestTest:32 - No errors in calculating Highstandard matrial house construction cost
+2020-03-02 11:43:16 [main] INFO  IntrestTest:36 - House construction with Excellentstandard Fullautomatic material is calculated
+2020-03-02 11:43:16 [main] WARN  IntrestTest:38 - No warnings in calculating the Excellentstandard Fullautomatic matrial house construction cost
+2020-03-02 11:43:16 [main] ERROR IntrestTest:39 - No errors in calculating Excellentstandard Fullautomatic matrial house construction cost
+2020-03-02 11:43:16 [main] INFO  IntrestTest:20 - Simple interest is calculated
+2020-03-02 11:43:16 [main] WARN  IntrestTest:22 - No warnings in Simple interest and calculated
+2020-03-02 11:43:16 [main] ERROR IntrestTest:23 - No errors in Simple interest and calculated
+2020-03-02 11:43:16 [main] INFO  IntrestTest:27 - Compound interest is calculated
+2020-03-02 11:43:16 [main] WARN  IntrestTest:29 - No warnings in Compound interest and calculated
+2020-03-02 11:43:16 [main] ERROR IntrestTest:30 - No errors in Compound interest and calculated
+2020-03-02 11:45:29 [main] INFO  IntrestTest:17 - House construction with Standard material is calculated
+2020-03-02 11:45:29 [main] WARN  IntrestTest:19 - No warnings in calculating the standard matrial house construction cost
+2020-03-02 11:45:29 [main] ERROR IntrestTest:20 - No errors in calculating the standard matrial house construction cost
+2020-03-02 11:45:29 [main] INFO  IntrestTest:23 - House construction with Above Standard material is calculated
+2020-03-02 11:45:29 [main] WARN  IntrestTest:25 - No warnings in calculating the Above standard matrial house construction cost
+2020-03-02 11:45:29 [main] ERROR IntrestTest:26 - No errors in calculating the Above standard matrial house construction cost
+2020-03-02 11:45:29 [main] INFO  IntrestTest:29 - House construction with Highstandard material is calculated
+2020-03-02 11:45:29 [main] WARN  IntrestTest:31 - No warnings in calculating the Highstandard matrial house construction cost
+2020-03-02 11:45:29 [main] ERROR IntrestTest:32 - No errors in calculating Highstandard matrial house construction cost
+2020-03-02 11:45:29 [main] INFO  IntrestTest:36 - House construction with Excellentstandard Fullautomatic material is calculated
+2020-03-02 11:45:29 [main] WARN  IntrestTest:38 - No warnings in calculating the Excellentstandard Fullautomatic matrial house construction cost
+2020-03-02 11:45:29 [main] ERROR IntrestTest:39 - No errors in calculating Excellentstandard Fullautomatic matrial house construction cost
+2020-03-02 11:45:29 [main] INFO  IntrestTest:20 - Simple interest is calculated
+2020-03-02 11:45:29 [main] WARN  IntrestTest:22 - No warnings in Simple interest and calculated
+2020-03-02 11:45:29 [main] ERROR IntrestTest:23 - No errors in Simple interest and calculated
+2020-03-02 11:45:29 [main] INFO  IntrestTest:27 - Compound interest is calculated
+2020-03-02 11:45:29 [main] WARN  IntrestTest:29 - No warnings in Compound interest and calculated
+2020-03-02 11:45:29 [main] ERROR IntrestTest:30 - No errors in Compound interest and calculated
+2020-03-03 09:21:39 [main] INFO  IntrestTest:17 - House construction with Standard material is calculated
+2020-03-03 09:21:39 [main] WARN  IntrestTest:19 - No warnings in calculating the standard material house construction cost
+2020-03-03 09:21:39 [main] ERROR IntrestTest:20 - No errors in calculating the standard material house construction cost
+2020-03-03 09:21:39 [main] INFO  IntrestTest:23 - House construction with Above Standard material is calculated
+2020-03-03 09:21:39 [main] WARN  IntrestTest:25 - No warnings in calculating the Above standard material house construction cost
+2020-03-03 09:21:39 [main] ERROR IntrestTest:26 - No errors in calculating the Above standard material house construction cost
+2020-03-03 09:21:39 [main] INFO  IntrestTest:29 - House construction with High standard material is calculated
+2020-03-03 09:21:39 [main] WARN  IntrestTest:31 - No warnings in calculating the Highe standard material house construction cost
+2020-03-03 09:21:39 [main] ERROR IntrestTest:32 - No errors in calculating High standard material house construction cost
+2020-03-03 09:21:39 [main] INFO  IntrestTest:36 - House construction with Excellentestandard Full automatic material is calculated
+2020-03-03 09:21:39 [main] WARN  IntrestTest:38 - No warnings in calculating the Excellentstandard Full automatic material house construction cost
+2020-03-03 09:21:39 [main] ERROR IntrestTest:39 - No errors in calculating Excellent standard Full automatic material house construction cost
+2020-03-03 09:21:39 [main] INFO  IntrestTest:20 - Simple interest is calculated
+2020-03-03 09:21:39 [main] WARN  IntrestTest:22 - No warnings in Simple interest and calculated
+2020-03-03 09:21:39 [main] ERROR IntrestTest:23 - No errors in Simple interest and calculated
+2020-03-03 09:21:39 [main] INFO  IntrestTest:27 - Compound interest is calculated
+2020-03-03 09:21:39 [main] WARN  IntrestTest:29 - No warnings in Compound interest and calculated
+2020-03-03 09:21:39 [main] ERROR IntrestTest:30 - No errors in Compound interest and calculated
+2020-03-03 09:21:46 [main] INFO  IntrestTest:17 - House construction with Standard material is calculated
+2020-03-03 09:21:46 [main] WARN  IntrestTest:19 - No warnings in calculating the standard material house construction cost
+2020-03-03 09:21:46 [main] ERROR IntrestTest:20 - No errors in calculating the standard material house construction cost
+2020-03-03 09:21:46 [main] INFO  IntrestTest:23 - House construction with Above Standard material is calculated
+2020-03-03 09:21:46 [main] WARN  IntrestTest:25 - No warnings in calculating the Above standard material house construction cost
+2020-03-03 09:21:46 [main] ERROR IntrestTest:26 - No errors in calculating the Above standard material house construction cost
+2020-03-03 09:21:46 [main] INFO  IntrestTest:29 - House construction with High standard material is calculated
+2020-03-03 09:21:46 [main] WARN  IntrestTest:31 - No warnings in calculating the Highe standard material house construction cost
+2020-03-03 09:21:46 [main] ERROR IntrestTest:32 - No errors in calculating High standard material house construction cost
+2020-03-03 09:21:46 [main] INFO  IntrestTest:36 - House construction with Excellentestandard Full automatic material is calculated
+2020-03-03 09:21:46 [main] WARN  IntrestTest:38 - No warnings in calculating the Excellentstandard Full automatic material house construction cost
+2020-03-03 09:21:46 [main] ERROR IntrestTest:39 - No errors in calculating Excellent standard Full automatic material house construction cost
+2020-03-03 09:21:46 [main] INFO  IntrestTest:20 - Simple interest is calculated
+2020-03-03 09:21:46 [main] WARN  IntrestTest:22 - No warnings in Simple interest and calculated
+2020-03-03 09:21:46 [main] ERROR IntrestTest:23 - No errors in Simple interest and calculated
+2020-03-03 09:21:46 [main] INFO  IntrestTest:27 - Compound interest is calculated
+2020-03-03 09:21:46 [main] WARN  IntrestTest:29 - No warnings in Compound interest and calculated
+2020-03-03 09:21:46 [main] ERROR IntrestTest:30 - No errors in Compound interest and calculated
